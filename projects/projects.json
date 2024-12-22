@@ -10,7 +10,7 @@
   },
   {
     "name": "Red Store",
-    "desc": "HTML5 eccomerce website",
+    "desc": "HTML5 eccomerce website with CSS3",
     "image": "red-store",
     "category": "HTML5",
     "links": {
@@ -19,7 +19,7 @@
   },
   {
     "name": "Car Wash",
-    "desc": "HTML5 auto wash website",
+    "desc": "HTML5 auto wash website which is also responsive",
     "image": "car-wash",
     "category": "HTML5",
     "links": {
@@ -28,7 +28,7 @@
   },
   {
     "name": "Admin Pannel",
-    "desc": "Full-Stack project dashboard which is used to manage user data",
+    "desc": "Full-Stack project responsive dashboard which is used to manage user data",
     "image": "admin-pannel",
     "category": "ReactJs",
     "links": {
